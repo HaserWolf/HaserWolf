@@ -11,8 +11,8 @@
 ## I am also
 - Founder of [Haser Media](https://hasermedia.org)
 - Creator of [FutrzakFM](https://futrzakfm.pl)
-- Stream Backend Lead [Z-Rave](https://zrave.club) ([@z-rave](https://github.com/z-rave))
-- Member of the Board [OwO Association](https://owo.org.pl) ([@owoorgpl](https://github.com/owoorgpl))
+- Stream Backend Lead at [Z-Rave](https://zrave.club) ([@z-rave](https://github.com/z-rave))
+- Member of the Board at [OwO Association](https://owo.org.pl) ([@owoorgpl](https://github.com/owoorgpl))
 
 ## Tech stack
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
